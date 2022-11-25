@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    margin: 1rem;
+}
+.widthtext{
+    width: 400px;
+    height: 200px;
+    overflow-y: auto;
+}
